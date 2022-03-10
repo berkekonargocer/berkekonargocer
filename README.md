@@ -3,7 +3,7 @@ using Berke.Details;
 
 public class Berke                           
 {                                   
-  string greet 👋 = "HELLO and GREETINGS EVERYONE";                  
+  string greet 👋 = "HELLO and GREETINGS";                  
   protected static string mail 📫 =  "berkee.44@outlook.com";                          
   protected static string name = "Berke";                                   
   [SerializeField] protected int age = 22;                                    
