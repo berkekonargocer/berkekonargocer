@@ -1,4 +1,5 @@
-using Berke.Collections;                                                                               
+using Berke.Collections;    
+using Berke.Information;     
 using Berke.Details;
 
 public class Berke                           
