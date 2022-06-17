@@ -1,11 +1,11 @@
+<img align="top" alt="GIF" src="https://i.giphy.com/media/YQGTMkgCZpOpdnNX5R/giphy.webp"  width="500" height="320" />
+
 using Berke.Collections;    
 using Berke.Information;     
 using Berke.Details;
 
-public class Berke                           
-{                                   
-  string greet 👋 = "HELLO and GREETINGS";                  
-  protected static string mail 📫 =  "berkee.44@outlook.com";                          
+private class Berke                           
+{                                                                           
   protected static string name = "Berke";                                   
   [SerializeField] protected int age = 22;                                    
   public enum interests {GameDevelopment, GameDesign, Coding, VideoEditing, Events, Geek};                         
@@ -13,6 +13,13 @@ public class Berke
   //("Im a self-taught Junior Unity C# Game Developer. Game development is my passion, i constantly try to learn new stuff or create different projects also trying to practice a lot. Learning to code new features, discovering the better version of my code, optimizing the current state of the game, designing the environment etc. all of them excites me eminently. 
  I would collaborate on almost any game development projects with great pleasure. Just let me know.")       
 }
+
+### Connect with me:
+<a href="mailto:berkee.44@outlook.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
+<a href="https://www.linkedin.com/in/berke-konargöçer-6a034622b/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo"/>
+  
+<h1></h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ciywi&show_icons=true&theme=radical&locale=en&layout=compact" alt="Ciywi"/></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ciywi&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=FF6C15&currStreakLabel=FF6C15&dates=43FFF9)](https://git.io/streak-stats)
 <!---
