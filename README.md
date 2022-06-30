@@ -1,4 +1,4 @@
-<img align="top" alt="GIF" src="https://i.giphy.com/media/YQGTMkgCZpOpdnNX5R/giphy.webp"  width="500" height="320" />
+<img align="top" align ="middle" alt="GIF" src="https://i.giphy.com/media/YQGTMkgCZpOpdnNX5R/giphy.webp"  width="500" height="320" />
 
 using Berke.Collections;    
 using Berke.Information;     
