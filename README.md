@@ -14,8 +14,8 @@ private class Berke
  I would collaborate on almost any game development projects with great pleasure. Just let me know.")       
 }
                                                    
-                                                   ### "[NPC] Gamesmith Berke" Communication Locations: 
-<a href="mailto:berkee.44@outlook.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
+                                                   "[NPC] Gamesmith Berke" Communication Locations: 
+<a href="mailto:berkee.44@outlook.com" ><img width="50px" align="middle" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
 <a href="https://www.linkedin.com/in/berke-konargöçer-6a034622b/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ciywi&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=FF6C15&currStreakLabel=FF6C15&dates=43FFF9)](https://git.io/streak-stats)
