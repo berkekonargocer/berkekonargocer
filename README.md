@@ -6,9 +6,9 @@ using Berke.Details;
 
 private class Berke                           
 {                                                                           
-  private const string name = "Berke";                                   
-  private int age = 22;                                    
-  public enum interests {GameDevelopment, GameDesign, Coding, Gameplay, VideoEditing, Events, Geek};                         
+  private const string _name = "Berke";                                   
+  private int _age = 22;                                    
+  public enum Interests {GameDevelopment, GameDesign, Coding, Gameplay, VideoEditing, Events, Geek};                         
   
   //("Im a self-taught Junior Unity C# Game Developer. Game development is my passion, i constantly try to learn new stuff or create different projects also trying to practice a lot. Learning to code new features, discovering the better version of my code, optimizing the current state of the game, designing the environment etc. all of them excites me eminently. 
  I would collaborate on almost any game development projects with great pleasure. Just let me know.")       
