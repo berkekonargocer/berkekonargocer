@@ -13,7 +13,7 @@ private class Berke
   private void Start()
   {
   
-  Debug.Log($"Im a self-taught Unity C# Game Developer. {_interests[0]} is my passion, i constantly try to learn new stuff or create different projects and practice a  lot. Learning to code new features, refactoring my code, optimizing the current state of the game, changing the design based on feedbacks etc. all of them excites me   eminently.")
+  Debug.Log($"Im a self-taught Unity C# Game Developer. {_interests[0]} is my passion, i constantly try to learn new stuff or create different projects and practice a  lot. Learning to code new features, refactoring my code, optimizing the current state of the game, changing the design based on feedbacks etc. all of them excites me   eminently. And currently, pursuing my dreams on my way to become a successful game developer.")
   
   }
   
