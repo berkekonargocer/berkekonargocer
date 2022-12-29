@@ -6,7 +6,7 @@ using Berke.Details;
 
 private class Berke                           
 {                                                                           
-  private const string _name = "Berke";                                   
+  private const string NAME = "Berke";                                   
   private int _age = 22;                                    
   private string[] _interests = {"Game Development", "Game Design", "Programming", "Games", "Video Editing", "Events", "Geek"};                         
   
