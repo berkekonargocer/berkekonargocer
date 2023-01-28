@@ -11,6 +11,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=berkekonargocer&theme=chartreuse-dark&hide_border=false)<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=berkekonargocer&icon=2&color=3)](https://visitcount.itsvg.in)
