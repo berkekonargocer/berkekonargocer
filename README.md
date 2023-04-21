@@ -11,4 +11,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=berkekonargocer&theme=chartreuse-dark&hide_border=false)<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-day off 2
