@@ -13,7 +13,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=berkekonargocer&icon=9&color=6)](https://visitcount.itsvg.in)
